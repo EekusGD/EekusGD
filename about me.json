@@ -1,0 +1,44 @@
+{
+   "about": {
+      "name": "EekusGD",
+      "description": "README.md",
+      "files": [
+         "README.md",
+         "eekusgd.nswi.geode"
+      ]
+   },
+   "public account": true,
+   "comments": 1,
+   "issues": 1,
+   "usage": {
+      "github": "site",
+      "sending": "Android files",
+      "issues": "Unlisted objects in editor",
+      "subscribers": []
+   },
+   "favourite app": "Geode",
+   "teaching": "python",
+   "favourite file types": [
+      ".py",
+      ".json",
+      ".html",
+      ".geode",
+      ".zip",
+      ".zipx",
+      ".gz",
+      ".bin",
+      ".txt",
+      ".md",
+      ".js",
+      "folder",
+      ".docx",
+      ".pptx",
+      ".pdf",
+      ".dat",
+      ".apk",
+      ".xapk",
+      ".pkg",
+      ".exe",
+      ""
+   ]
+}
